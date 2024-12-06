@@ -7,7 +7,23 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>好多小俊哥-KingJunye</copyright>
-        <lastBuildDate>Fri, 06 Dec 2024 06:08:28 +0800</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 07 Dec 2024 03:22:47 +0800</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Test2</title>
+        <link>https://example.com/p/test2/</link>
+        <pubDate>Sat, 07 Dec 2024 03:22:47 +0800</pubDate>
+        
+        <guid>https://example.com/p/test2/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Test1</title>
+        <link>https://example.com/p/test1/</link>
+        <pubDate>Fri, 06 Dec 2024 07:48:23 +0800</pubDate>
+        
+        <guid>https://example.com/p/test1/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>MyFirstBlog</title>
         <link>https://example.com/p/myfirstblog/</link>
         <pubDate>Fri, 06 Dec 2024 06:08:28 +0800</pubDate>
